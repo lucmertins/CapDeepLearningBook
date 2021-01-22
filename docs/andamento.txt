@@ -1,0 +1,7 @@
+cap 13 http://deeplearningbook.com.br/construindo-uma-rede-neural-com-linguagem-python/
+cap 16 http://deeplearningbook.com.br/algoritmo-backpropagation-em-python/
+cap 17 http://deeplearningbook.com.br/cross-entropy-cost-function/
+
+
+
+
