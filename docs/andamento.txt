@@ -1,6 +1,10 @@
 cap 13 http://deeplearningbook.com.br/construindo-uma-rede-neural-com-linguagem-python/
 cap 16 http://deeplearningbook.com.br/algoritmo-backpropagation-em-python/
 cap 17 http://deeplearningbook.com.br/cross-entropy-cost-function/
+            https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen)/03%3A_Improving_the_way_neural_networks_learn/3.01%3A_The_cross-entropy_cost_function
+        cross-entropy cost x quadratic cost
+cap 18 http://deeplearningbook.com.br/entropia-cruzada-para-quantificar-a-diferenca-entre-duas-distribuicoes-de-probabilidade/
+
 
 
 
