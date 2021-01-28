@@ -33,7 +33,7 @@ def main(filename, num_epochs,
     ``lmbda`` is the regularization parameter.  The other parameters
     set the epochs at which to start plotting on the x axis.
     """
-    run_network(filename, num_epochs, training_set_size, lmbda)
+    #run_network(filename, num_epochs, training_set_size, lmbda)
     make_plots(filename, num_epochs, 
                training_cost_xmin,
                test_accuracy_xmin,
@@ -159,21 +159,18 @@ def plot_overlay(test_accuracy, training_accuracy, num_epochs, xmin,
     plt.show()
 
 if __name__ == "__main__":
-    filename = input("Enter a file name: ")
-    num_epochs = int(input(
-        "Enter the number of epochs to run for: "))
-    training_cost_xmin = int(input(
-        "training_cost_xmin (suggest 200): "))
-    test_accuracy_xmin = int(input(
-        "test_accuracy_xmin (suggest 200): "))
-    test_cost_xmin = int(input(
-        "test_cost_xmin (suggest 0): "))
-    training_accuracy_xmin = int(input(
-        "training_accuracy_xmin (suggest 0): "))
-    training_set_size = int(input(
-        "Training set size (suggest 1000): "))
-    lmbda = float(input(
-        "Enter the regularization parameter, lambda (suggest: 5.0): "))
+
+#   filename = input("Enter a file name: ")
+
+    filename='../data/processed/resultOverfiting'
+    num_epochs=400     
+    training_cost_xmin=200
+    test_accuracy_xmin = 200
+    test_cost_xmin = 0
+    training_accuracy_xmin = 0
+    training_set_size=1000
+    lmbda=5.0
+
     main(filename, num_epochs, training_cost_xmin, 
          test_accuracy_xmin, test_cost_xmin, training_accuracy_xmin,
          training_set_size, lmbda)
