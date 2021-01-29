@@ -6,7 +6,7 @@ cap 17 http://deeplearningbook.com.br/cross-entropy-cost-function/
 cap 18 http://deeplearningbook.com.br/entropia-cruzada-para-quantificar-a-diferenca-entre-duas-distribuicoes-de-probabilidade/
 cap 19 http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/
         http://neuralnetworksanddeeplearning.com/
-
+cap 20 http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-2/
         
 
 
