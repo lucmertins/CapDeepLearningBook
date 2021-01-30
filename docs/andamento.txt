@@ -7,7 +7,12 @@ cap 18 http://deeplearningbook.com.br/entropia-cruzada-para-quantificar-a-difere
 cap 19 http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/
         http://neuralnetworksanddeeplearning.com/
 cap 20 http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-2/
-        
+        regularização L2
+cap 21 http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting/
+        por que usar regularização
+cap 22 http://deeplearningbook.com.br/capitulo-22-regularizacao-l1/
+        Regularização L1
+cap 23 http://deeplearningbook.com.br/capitulo-23-como-funciona-o-dropout/
 
 
 
