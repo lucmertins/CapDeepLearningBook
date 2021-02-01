@@ -13,6 +13,8 @@ cap 21 http://deeplearningbook.com.br/afinal-por-que-a-regularizacao-ajuda-a-red
 cap 22 http://deeplearningbook.com.br/capitulo-22-regularizacao-l1/
         Regularização L1
 cap 23 http://deeplearningbook.com.br/capitulo-23-como-funciona-o-dropout/
+cap 24 http://deeplearningbook.com.br/capitulo-24-expandir-artificialmente-os-dados-de-treinamento/
+cap 25 http://deeplearningbook.com.br/inicializacao-de-pesos-em-redes-neurais-artificiais/
 
 
 
