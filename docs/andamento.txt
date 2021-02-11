@@ -16,6 +16,11 @@ cap 23 http://deeplearningbook.com.br/capitulo-23-como-funciona-o-dropout/
 cap 24 http://deeplearningbook.com.br/capitulo-24-expandir-artificialmente-os-dados-de-treinamento/
 cap 25 http://deeplearningbook.com.br/inicializacao-de-pesos-em-redes-neurais-artificiais/
 cap 26 http://deeplearningbook.com.br/capitulo-26-como-escolher-os-hiperparametros-de-uma-rede-neural/
-
+        “fail fast” - escolhendo hiperparametros
+cap 27 http://deeplearningbook.com.br/a-taxa-de-aprendizado-de-uma-rede-neural/
+        taxa de aprendizado inicial baseada no custo de treinamento
+cap 28 - http://deeplearningbook.com.br/usando-early-stopping-para-definir-o-numero-de-epocas-de-treinamento/
+        parada precoce - Early stopping
+cap 29- http://deeplearningbook.com.br/definindo-o-tamanho-do-mini-batch/
 
 
