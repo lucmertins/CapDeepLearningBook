@@ -23,4 +23,6 @@ cap 28 - http://deeplearningbook.com.br/usando-early-stopping-para-definir-o-num
         parada precoce - Early stopping
 cap 29- http://deeplearningbook.com.br/definindo-o-tamanho-do-mini-batch/
 
-
+cap 30 - http://deeplearningbook.com.br/variacoes-do-stochastic-gradient-descent-hessian-optimization-e-momentum/
+cap 31 - http://deeplearningbook.com.br/as-redes-neurais-artificiais-podem-computar-qualquer-funcao/
+cap 32 - http://deeplearningbook.com.br/como-uma-rede-neural-artificial-encontra-a-aproximacao-de-uma-funcao/
