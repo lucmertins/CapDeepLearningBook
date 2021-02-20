@@ -26,3 +26,5 @@ cap 29- http://deeplearningbook.com.br/definindo-o-tamanho-do-mini-batch/
 cap 30 - http://deeplearningbook.com.br/variacoes-do-stochastic-gradient-descent-hessian-optimization-e-momentum/
 cap 31 - http://deeplearningbook.com.br/as-redes-neurais-artificiais-podem-computar-qualquer-funcao/
 cap 32 - http://deeplearningbook.com.br/como-uma-rede-neural-artificial-encontra-a-aproximacao-de-uma-funcao/
+cap 33 - http://deeplearningbook.com.br/por-que-as-redes-neurais-profundas-sao-dificeis-de-treinar/
+cap 34 - http://deeplearningbook.com.br/o-problema-da-dissipacao-do-gradiente/
