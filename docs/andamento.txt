@@ -28,3 +28,4 @@ cap 31 - http://deeplearningbook.com.br/as-redes-neurais-artificiais-podem-compu
 cap 32 - http://deeplearningbook.com.br/como-uma-rede-neural-artificial-encontra-a-aproximacao-de-uma-funcao/
 cap 33 - http://deeplearningbook.com.br/por-que-as-redes-neurais-profundas-sao-dificeis-de-treinar/
 cap 34 - http://deeplearningbook.com.br/o-problema-da-dissipacao-do-gradiente/
+cap 35 - http://deeplearningbook.com.br/a-matematica-do-problema-de-dissipacao-do-gradiente-em-deep-learning/
