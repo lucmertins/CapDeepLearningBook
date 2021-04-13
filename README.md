@@ -29,3 +29,7 @@ Testando o livro https://deeplearningbook.com.br/. This project was created and 
 $ make setup
 ```
 # CapDeepLearningBook
+
+
+Avaliando tbm https://d2l.ai/
+
