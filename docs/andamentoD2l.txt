@@ -1,0 +1,13 @@
+Site https://d2l.ai/
+
+sites extras
+https://discuss.d2l.ai/
+https://distill.pub/
+
+
+Github
+https://github.com/d2l-ai/d2l-en
+
+
+
+
