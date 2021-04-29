@@ -14,3 +14,10 @@ https://discuss.d2l.ai/t/18
 
 pg14
 
+
+
+
+conda activate d2l 
+conda install ipykernel
+ipython kernel install --user --name=d2l
+pip install jupyterlab 
