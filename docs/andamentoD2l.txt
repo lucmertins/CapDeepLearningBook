@@ -12,5 +12,5 @@ https://github.com/d2l-ai/d2l-en
 https://discuss.d2l.ai/8
 https://discuss.d2l.ai/t/18
 
-pg30
+pg32
 
