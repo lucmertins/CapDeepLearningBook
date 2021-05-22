@@ -12,10 +12,14 @@ https://github.com/d2l-ai/d2l-en
 https://discuss.d2l.ai/8
 https://discuss.d2l.ai/t/18
 
-pg50
+pg52
 
 Appendix: Mathematics for Deep Learning
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+
+Respostas exercícios
+https://hy38.github.io/D2L-2-ndarray-pandas
+
 
 
 conda activate d2l 
