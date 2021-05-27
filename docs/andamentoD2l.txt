@@ -12,7 +12,7 @@ https://github.com/d2l-ai/d2l-en
 https://discuss.d2l.ai/8
 https://discuss.d2l.ai/t/18
 
-pg 61
+pg 63
 
 Appendix: Mathematics for Deep Learning
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
@@ -31,3 +31,8 @@ pip install jupyterlab
 
 Outras leituras 
 https://gluon.mxnet.io/chapter01_crashcourse/introduction.html
+
+
+
+Simbolos Matematicos
+https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/
