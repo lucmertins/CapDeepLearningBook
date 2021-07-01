@@ -12,7 +12,7 @@ https://github.com/d2l-ai/d2l-en
 https://discuss.d2l.ai/8
 https://discuss.d2l.ai/t/18
 
-pg 88
+pg 92
 
 Appendix: Mathematics for Deep Learning
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
