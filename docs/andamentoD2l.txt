@@ -43,3 +43,10 @@ https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/
 
 Linear Algebra
 https://colab.research.google.com/github/d2l-ai/d2l-tensorflow-colab/blob/master/chapter_preliminaries/linear-algebra.ipynb
+
+
+
+Versão do book em java
+https://d2l.djl.ai/index.html
+https://docs.djl.ai/
+https://www.infoq.com/news/2020/01/deep-java-library/
