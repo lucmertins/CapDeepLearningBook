@@ -1,0 +1,39 @@
+
+Fedora 34 com Nvidia 3060TI
+
+Baixar Cuda 11.0
+
+https://developer.nvidia.com/cuda-toolkit-archive
+
+
+
+
+Instalação MXNet no Fedora 34
+
+Compilei a versão master na tentantiva de funcionar a gpu com python e java
+seguindo o link https://mxnet.apache.org/get_started/build_from_source
+
+Foi necessário instalar no Fedora a biblioteca static do OpenBlas 
+sudo dnf install openblas-static
+
+Usando a interface visual do cmake: desmarcar USE_NVLM
+     executar configure
+     executar generate
+
+make na pasta do mxnet
+
+ao final do processo de compilação
+sudo make install 
+
+
+
+Conda 
+
+/home/software/python/anaconda3/envs/d2l/lib
+
+base) [mertins@localhost lib]$ ls -la libstdc++.so*
+lrwxrwxrwx  1 mertins mertins       23 set 10 17:35 libstdc++.so -> /usr/lib/libstdc++.so.6
+lrwxrwxrwx  1 mertins mertins       23 set 10 17:35 libstdc++.so.6 -> /usr/lib/libstdc++.so.6
+-rwxrwxr-x. 4 mertins mertins 13172960 jun  9  2019 libstdc++.so.6.0.26
+lrwxrwxrwx. 1 mertins mertins       19 abr 28 20:42 libstdc++.so.6.old -> libstdc++.so.6.0.26
+lrwxrwxrwx. 1 mertins mertins       19 abr 28 20:42 libstdc++.so.old -> libstdc++.so.6.0.26
