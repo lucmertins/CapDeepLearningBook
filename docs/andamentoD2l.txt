@@ -1,5 +1,8 @@
 Site https://d2l.ai/
 
+Notebooks e Vídeo aulas
+https://courses.d2l.ai/berkeley-stat-157/syllabus.html
+
 sites extras
 https://discuss.d2l.ai/
 https://distill.pub/
