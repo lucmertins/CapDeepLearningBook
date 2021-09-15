@@ -25,7 +25,9 @@ make na pasta do mxnet
 ao final do processo de compilação
 sudo make install 
 
+python3 -m pip install --user -e ./python/
 
+python3 -m pip install --user graphviz==0.8.4 jupyter
 
 Conda 
 
