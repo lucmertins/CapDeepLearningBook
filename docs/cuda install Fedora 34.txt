@@ -39,3 +39,10 @@ lrwxrwxrwx  1 mertins mertins       23 set 10 17:35 libstdc++.so.6 -> /usr/lib/l
 -rwxrwxr-x. 4 mertins mertins 13172960 jun  9  2019 libstdc++.so.6.0.26
 lrwxrwxrwx. 1 mertins mertins       19 abr 28 20:42 libstdc++.so.6.old -> libstdc++.so.6.0.26
 lrwxrwxrwx. 1 mertins mertins       19 abr 28 20:42 libstdc++.so.old -> libstdc++.so.6.0.26
+
+
+Não consegui utilizar o python do Anaconda, por erros nas bibliotecas
+Instalar todas as dependências no python onde o cuda foi instalado
+com o comando abaixo:
+
+ python3.8 -m pip install -U mayavi
