@@ -60,3 +60,8 @@ https://github.com/deepjavalibrary/djl
 
 
 https://rpmfusion.org/Howto/CUDA
+
+
+
+Gradiente mxnet
+https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/packages/autograd/index.html
