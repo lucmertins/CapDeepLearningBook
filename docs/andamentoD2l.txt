@@ -15,7 +15,7 @@ https://github.com/d2l-ai/d2l-en
 https://discuss.d2l.ai/8
 https://discuss.d2l.ai/t/18
 
-pg 107
+pg 116
 
 Appendix: Mathematics for Deep Learning
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
@@ -65,3 +65,7 @@ https://rpmfusion.org/Howto/CUDA
 
 Gradiente mxnet
 https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/packages/autograd/index.html
+
+
+Computer Vision with GluonCV Model Zoo
+https://towardsdatascience.com/a-one-stop-guide-to-computer-vision-96f72025f82d
