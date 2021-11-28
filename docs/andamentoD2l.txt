@@ -31,6 +31,9 @@ ipython kernel install --user --name=d2l
 pip install jupyterlab 
 
 
+Função Softmax e Cross Entropy
+cap 3.6.4 pg 119
+https://www.youtube.com/watch?v=fPPy0Q5znS8
 
 Algebra Linear e Geometria
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/geometry-linear-algebraic-ops.html
