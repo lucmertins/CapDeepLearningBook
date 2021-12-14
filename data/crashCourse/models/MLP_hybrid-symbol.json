@@ -35,7 +35,7 @@
     }, 
     {
       "op": "FullyConnected", 
-      "name": "node_363", 
+      "name": "node_179", 
       "attrs": {
         "flatten": "1", 
         "no_bias": "0", 
@@ -45,7 +45,7 @@
     }, 
     {
       "op": "Activation", 
-      "name": "node_364", 
+      "name": "node_180", 
       "attrs": {"act_type": "relu"}, 
       "inputs": [[3, 0, 0]]
     }, 
@@ -78,7 +78,7 @@
     }, 
     {
       "op": "FullyConnected", 
-      "name": "node_365", 
+      "name": "node_181", 
       "attrs": {
         "flatten": "1", 
         "no_bias": "0", 
@@ -88,7 +88,7 @@
     }, 
     {
       "op": "Activation", 
-      "name": "node_366", 
+      "name": "node_182", 
       "attrs": {"act_type": "relu"}, 
       "inputs": [[7, 0, 0]]
     }, 
@@ -121,7 +121,7 @@
     }, 
     {
       "op": "FullyConnected", 
-      "name": "node_367", 
+      "name": "node_183", 
       "attrs": {
         "flatten": "1", 
         "no_bias": "0", 
