@@ -46,3 +46,6 @@ Instalar todas as dependências no python onde o cuda foi instalado
 com o comando abaixo:
 
  python3.8 -m pip install -U mayavi
+
+
+ https://copr.fedorainfracloud.org/coprs/rezso/ML/
