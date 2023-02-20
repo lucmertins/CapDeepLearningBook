@@ -49,3 +49,17 @@ com o comando abaixo:
 
 
  https://copr.fedorainfracloud.org/coprs/rezso/ML/
+
+
+
+
+mxnet compile Fedora 37
+
+install cuda-12 
+https://blog.shawonashraf.com/fedora-37-post-installation-steps#heading-setting-up-cuda-for-nvidia-gpus
+link acima informa usar abaixo
+https://rpmfusion.org/Howto/CUDA
+
+
+instalar opencv e opencv-dev
+
